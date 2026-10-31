@@ -1,5 +1,6 @@
 # Electricity-Consumption-Prediction
-Electricity Consumption Prediction Using Regression
+Electricity Consumption Prediction Using Regression:
+
 A regression project that predicts electricity consumption using weather and time features, with a Streamlit web app for live predictions.
 
 ### Dataset: Power Consumption of Tetouan City (Kaggle)
@@ -23,7 +24,7 @@ The dataset records power use of three distribution zones every 10 minutes for o
 - R2 Score
 
 ### Best Model
-Random Forrest based on R2 Score for target variables(Zone 1, Zone 2, Zone 3, Total Consumption)
+Random Forest based on R2 Score for target variables(Zone 1, Zone 2, Zone 3, Total Consumption)
 
 ### Tech Stack
 - Google Colab
